@@ -4,7 +4,6 @@ title: GSoC Progress Report 1
 subtitle: Implementing Pseudolocalization in Godot
 tags: [Devlog, GSoC, Godot]
 comments: true
-cover-img: /assets/img/GSoC.png
 thumbnail-img: /assets/img/godot.png
 ---
 
