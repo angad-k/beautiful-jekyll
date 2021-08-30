@@ -1,14 +1,16 @@
 ---
 layout: post
 title: GSoC Progress Report 1
-subtitle: Pseudolocalization in Godot
-tags: [Devlog]
+subtitle: Implementing Pseudolocalization in Godot
+tags: [Devlog, GSoC, Godot]
 comments: true
+cover-img: /assets/img/GSoC.png
+thumbnail-img: /assets/img/godot.png
 ---
 
-> This is a cross-post from [Godot's Blog](https://godotengine.org/article/gsoc-2021-progress-report-1)
-
 # Pseudolocalization in Godot
+
+> This is a cross-post from [Godot's Blog](https://godotengine.org/article/gsoc-2021-progress-report-1)
 
 - Project : Adding Pseudolocalization to Godot
 - Student : Angad Kambli ([angad-k](https://github.com/angad-k))
