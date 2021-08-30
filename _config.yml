@@ -15,9 +15,6 @@ author: Angad Kambli
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://angad-k.github.io/"
 
 # --- Logo --- #
